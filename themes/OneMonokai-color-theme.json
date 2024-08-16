@@ -499,7 +499,7 @@
     },
     {
       "scope": [
-        "markup.raw.inline.markdown",
+        "markup.inline.raw",
         "markup.raw.block.markdown"
       ],
       "settings": {
