@@ -13,7 +13,6 @@
     "dropdown.border": "#181a1f",
     "editor.background": "#282c34",
     "editor.findMatchBackground": "#42557b",
-    "editor.findMatchHighlightBackground": "#314365",
     "editor.lineHighlightBackground": "#383e4a",
     "editor.selectionBackground": "#3e4451",
     "editorCursor.foreground": "#f8f8f0",
@@ -180,7 +179,8 @@
         "entity.name.type",
         "storage.identifier",
         "support.class",
-        "meta.import"
+        "meta.import",
+        "entity.name.function.target.makefile"
       ],
       "settings": {
         "foreground": "#61AFEF"
