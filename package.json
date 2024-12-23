@@ -2,7 +2,7 @@
     "name": "one-monokai-python",
     "displayName": "One Monokai Python",
     "description": "Python optimized One Monokai theme",
-    "version": "0.4.5",
+    "version": "0.4.6",
     "publisher": "NoThlnG",
     "engines": {
         "vscode": "^1.55.0"
