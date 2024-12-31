@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.4.7
+
+- Cherry pick https://github.com/azemoh/vscode-one-monokai/pull/46
+- Cherry pick https://github.com/azemoh/vscode-one-monokai/pull/50
+
 ## 0.4.6
 
 - Add Makefile target color support
