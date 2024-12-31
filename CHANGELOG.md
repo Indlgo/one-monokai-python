@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.4.6
+
+- Add Makefile target color support
+
 ## 0.4.5
 
 - Add fish and bash shell color support
